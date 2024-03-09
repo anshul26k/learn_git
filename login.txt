@@ -1,3 +1,6 @@
 name=aea
 pas=ak@25
  Everything happens twice in life, once in the mind and then in the reality
+
+ kndsv
+ dsv
